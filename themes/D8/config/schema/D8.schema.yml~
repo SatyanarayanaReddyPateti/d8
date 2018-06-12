@@ -1,0 +1,5 @@
+# Schema for the configuration files of the D8 theme.
+
+D8.settings:
+  type: theme_settings
+  label: 'D8 settings'
